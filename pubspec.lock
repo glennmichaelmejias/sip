@@ -113,7 +113,7 @@ packages:
       name: logger
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.9.1"
+    version: "0.7.0+2"
   matcher:
     dependency: transitive
     description:
@@ -169,7 +169,7 @@ packages:
       name: recase
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.0.0"
+    version: "2.0.1"
   sdp_transform:
     dependency: transitive
     description:
@@ -208,9 +208,9 @@ packages:
   sip_ua:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      name: sip_ua
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "0.2.0"
   sky_engine:
     dependency: transitive
