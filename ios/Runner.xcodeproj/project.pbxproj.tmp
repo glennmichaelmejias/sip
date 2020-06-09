@@ -151,8 +151,14 @@
 				<string>AppIcon</string>
 				<key>CLANG_ENABLE_MODULES</key>
 				<string>YES</string>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CODE_SIGN_STYLE</key>
+				<string>Manual</string>
 				<key>CURRENT_PROJECT_VERSION</key>
 				<string>$(FLUTTER_BUILD_NUMBER)</string>
+				<key>DEVELOPMENT_TEAM</key>
+				<string>68M26F3M7S</string>
 				<key>ENABLE_BITCODE</key>
 				<string>NO</string>
 				<key>FRAMEWORK_SEARCH_PATHS</key>
@@ -173,6 +179,8 @@
 				<string>com.mikeytronix.sip</string>
 				<key>PRODUCT_NAME</key>
 				<string>$(TARGET_NAME)</string>
+				<key>PROVISIONING_PROFILE_SPECIFIER</key>
+				<string>sip development 1591686348</string>
 				<key>SWIFT_OBJC_BRIDGING_HEADER</key>
 				<string>Runner/Runner-Bridging-Header.h</string>
 				<key>SWIFT_VERSION</key>
@@ -383,8 +391,12 @@
 					<dict>
 						<key>CreatedOnToolsVersion</key>
 						<string>7.3.1</string>
+						<key>DevelopmentTeam</key>
+						<string>68M26F3M7S</string>
 						<key>LastSwiftMigration</key>
 						<string>1100</string>
+						<key>ProvisioningStyle</key>
+						<string>Manual</string>
 					</dict>
 				</dict>
 			</dict>
@@ -887,8 +899,14 @@
 				<string>AppIcon</string>
 				<key>CLANG_ENABLE_MODULES</key>
 				<string>YES</string>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CODE_SIGN_STYLE</key>
+				<string>Manual</string>
 				<key>CURRENT_PROJECT_VERSION</key>
 				<string>$(FLUTTER_BUILD_NUMBER)</string>
+				<key>DEVELOPMENT_TEAM</key>
+				<string>68M26F3M7S</string>
 				<key>ENABLE_BITCODE</key>
 				<string>NO</string>
 				<key>FRAMEWORK_SEARCH_PATHS</key>
@@ -909,6 +927,8 @@
 				<string>com.mikeytronix.sip</string>
 				<key>PRODUCT_NAME</key>
 				<string>$(TARGET_NAME)</string>
+				<key>PROVISIONING_PROFILE_SPECIFIER</key>
+				<string>sip development 1591686348</string>
 				<key>SWIFT_OBJC_BRIDGING_HEADER</key>
 				<string>Runner/Runner-Bridging-Header.h</string>
 				<key>SWIFT_OPTIMIZATION_LEVEL</key>
@@ -933,8 +953,14 @@
 				<string>AppIcon</string>
 				<key>CLANG_ENABLE_MODULES</key>
 				<string>YES</string>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CODE_SIGN_STYLE</key>
+				<string>Manual</string>
 				<key>CURRENT_PROJECT_VERSION</key>
 				<string>$(FLUTTER_BUILD_NUMBER)</string>
+				<key>DEVELOPMENT_TEAM</key>
+				<string>68M26F3M7S</string>
 				<key>ENABLE_BITCODE</key>
 				<string>NO</string>
 				<key>FRAMEWORK_SEARCH_PATHS</key>
@@ -955,6 +981,8 @@
 				<string>com.mikeytronix.sip</string>
 				<key>PRODUCT_NAME</key>
 				<string>$(TARGET_NAME)</string>
+				<key>PROVISIONING_PROFILE_SPECIFIER</key>
+				<string>sip development 1591686348</string>
 				<key>SWIFT_OBJC_BRIDGING_HEADER</key>
 				<string>Runner/Runner-Bridging-Header.h</string>
 				<key>SWIFT_VERSION</key>
